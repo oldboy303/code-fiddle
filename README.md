@@ -1,3 +1,3 @@
 # code-fiddle
 
-Just a repl clone. Just basic HTML, CSS and jQuery.
+Just a simple repl clone. Just basic HTML, CSS and jQuery.
